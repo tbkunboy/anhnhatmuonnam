@@ -1,5 +1,5 @@
 # React Native Calendars ✨ 🗓️ 📆
-
+add "react-native-calendars": "git+https://github.com/tbkunboy/anhnhatmuonnam.git", to package.json thay cho "react-native-calendars": "^1.21.0",
 [![Version](https://img.shields.io/npm/v/react-native-calendars.svg)](https://www.npmjs.com/package/react-native-calendars)
 [![Build Status](https://travis-ci.org/wix/react-native-calendars.svg?branch=master)](https://travis-ci.org/wix/react-native-calendars)
 
